@@ -1,2 +1,1 @@
-console.log("Zabihullah")
-console.log("123")
+console.log("zabihullah")
